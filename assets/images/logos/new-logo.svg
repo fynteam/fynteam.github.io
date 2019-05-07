@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="78px" height="28px" viewBox="0 0 78 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="13" cy="13" r="13"></circle>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-2" transform="translate(-6.000000, -1.000000)">
+            <g id="Group-2" transform="translate(7.000000, 2.000000)">
+                <g id="Group">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" stroke="#C43261" stroke-width="1.2" fill="#FC2986" xlink:href="#path-1"></use>
+                    <g mask="url(#mask-2)" id="Line" stroke-linecap="square" stroke-width="1.5">
+                        <g transform="translate(20.104989, 10.136126) rotate(4.000000) translate(-20.104989, -10.136126) translate(-3.476406, -10.195269)">
+                            <path d="M47.1087381,11.2985404 L0.130770376,40.5428969" stroke="#C43261"></path>
+                            <path d="M9.21064857,0.0114858816 L30.3982641,37.9322337" stroke="#C63F6C"></path>
+                        </g>
+                    </g>
+                </g>
+                <text id="fynTeam" font-family="AmericanTypewriter, American Typewriter" font-size="10.8" font-weight="normal">
+                    <tspan x="31.0986" y="17" fill="#252D5C">fyn</tspan>
+                    <tspan x="48.2058" y="17" fill="#FC2986">Team</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
